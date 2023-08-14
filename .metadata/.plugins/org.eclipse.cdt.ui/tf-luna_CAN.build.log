@@ -1,0 +1,10 @@
+16:42:35 **** Incremental Build of configuration Debug for project tf-luna_CAN ****
+make -j16 all 
+arm-none-eabi-size   tf-luna_CAN.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29436	    128	   2192	  31756	   7c0c	tf-luna_CAN.elf
+Finished building: default.size.stdout
+ 
+
+16:42:35 Build Finished. 0 errors, 0 warnings. (took 535ms)
+

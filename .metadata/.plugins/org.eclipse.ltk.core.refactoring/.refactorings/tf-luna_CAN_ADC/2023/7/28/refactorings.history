@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;tf-luna_CAN_ADC/tf-luna_CAN.ioc&apos; to &apos;tf-luna_CAN_ADC.ioc&apos;" description="Rename resource &apos;tf-luna_CAN.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="tf-luna_CAN.ioc" name="tf-luna_CAN_ADC.ioc" stamp="1689151411760" updateReferences="true"/>
+</session>

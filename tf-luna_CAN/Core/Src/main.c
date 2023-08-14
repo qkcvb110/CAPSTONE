@@ -230,9 +230,13 @@ int main(void)
   //	  printDataArray();
   //	  printf("%d",tfDist); // Open your SVW ITM Data Console
   	  	  HAL_Delay(100); // 250Hz
-  	  Dist1= (tfDist-20) / 100;
-  	  Dist2= ((tfDist-20) %100) /10;
-  	  Dist3= (tfDist-20) % 10;
+  	  if(tfDist > 200)
+  	  {
+  		  tfDist = 200;
+  	  }
+  	  Dist1= (tfDist-15) / 100;
+  	  Dist2= ((tfDist-15) %100) /10;
+  	  Dist3= (tfDist-15) % 10;
 //  	memset(TxData_Node1_To_Node3, 0, sizeof(TxData_Node1_To_Node3));
 //  	  	sprintf ((char *)TxData_Node1_To_Node3 + 2,"%d%d%d",Dist1,Dist2,Dist3);
   	sprintf ((char *)TxData_Node1_To_Node3 ,"%d%d%d",Dist1,Dist2,Dist3);

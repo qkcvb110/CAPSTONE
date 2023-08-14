@@ -1,0 +1,8 @@
+_7_seg.c:4:6:PowerOn_7_SEG	8	static
+_7_seg.c:8:6:PowerOff_7_SEG	8	static
+_7_seg.c:12:6:On_7_SEG_AllPin	8	static
+_7_seg.c:17:6:Off_7_SEG_AllPin	8	static
+_7_seg.c:24:6:On_7_SEG_OnePin	16	static
+_7_seg.c:28:6:Off_7_SEG_OnePin	16	static
+_7_seg.c:32:6:_7_SEG_Pin_Test	8	static
+_7_seg.c:47:6:_7_SEG_Num_Test	16	static

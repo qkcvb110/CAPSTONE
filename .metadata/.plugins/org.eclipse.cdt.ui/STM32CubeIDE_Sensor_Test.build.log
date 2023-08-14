@@ -1,0 +1,10 @@
+19:50:47 **** Incremental Build of configuration Debug for project STM32CubeIDE_Sensor_Test ****
+make -j16 all 
+arm-none-eabi-size   STM32CubeIDE_Sensor_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  42008	    124	   2236	  44368	   ad50	STM32CubeIDE_Sensor_Test.elf
+Finished building: default.size.stdout
+ 
+
+19:50:47 Build Finished. 0 errors, 0 warnings. (took 654ms)
+

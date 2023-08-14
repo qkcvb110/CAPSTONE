@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32CubeIDE_4ch_7SEG/Core/Inc/dwt_stm32_delay.c&apos; to &apos;dwt_stm32_delay.h&apos;" description="Rename resource &apos;dwt_stm32_delay.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/dwt_stm32_delay.c" name="dwt_stm32_delay.h" stamp="1676360636679" updateReferences="true"/>
+</session>

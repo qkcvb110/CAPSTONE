@@ -1,0 +1,2 @@
+uart.c:10:5:_write	24	static
+uart.c:16:6:uart_test	32	static

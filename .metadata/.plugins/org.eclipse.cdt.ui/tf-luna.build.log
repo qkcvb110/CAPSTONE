@@ -1,0 +1,10 @@
+13:54:24 **** Build of configuration Debug for project tf-luna ****
+make -j16 all 
+arm-none-eabi-size   tf-luna.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28656	    128	   1864	  30648	   77b8	tf-luna.elf
+Finished building: default.size.stdout
+ 
+
+13:54:24 Build Finished. 0 errors, 0 warnings. (took 564ms)
+

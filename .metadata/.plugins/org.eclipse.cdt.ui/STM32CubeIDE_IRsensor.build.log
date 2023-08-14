@@ -1,0 +1,10 @@
+19:40:16 **** Incremental Build of configuration Debug for project STM32CubeIDE_IRsensor ****
+make -j16 all 
+arm-none-eabi-size   STM32CubeIDE_IRsensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28252	     24	   1912	  30188	   75ec	STM32CubeIDE_IRsensor.elf
+Finished building: default.size.stdout
+ 
+
+19:40:16 Build Finished. 0 errors, 0 warnings. (took 533ms)
+
